@@ -1,1 +1,1 @@
-ECHO is on.
+var1 = "BOB"
